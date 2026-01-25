@@ -1,6 +1,6 @@
 # Exposing: The larp taro and Pasted Anti cheat , Grave Digger & Decaying winter
 #### 4 Months of Research | January 2026
-> "This isn't just broken code. This is deliberate negligence."
+> "devforum slop"
 
 > [!WARNING]
 > **DISCLAIMER:** The information in this document was gathered by **Nigginality Hub** over 4 months of research (September 2025 - January 2026). Every claim is backed by verifiable evidence including decompiled game code, public DevForum posts, and direct conversations with game management.
@@ -167,4 +167,5 @@ User ID: `923300723662393454`
 
  All sources are public and verifiable. All timestamps are accurate. All code is real.
  This exposé represents 4 months of research. Every claim is backed by evidence.
+
 
